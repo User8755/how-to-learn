@@ -96,7 +96,6 @@
   font-size: 18px;
   font-weight: normal;
   margin: 0;
-
 }
 
 .description__two-columns-main-text{
@@ -162,7 +161,6 @@ margin: 100px 0;
   line-height: 1.15;
   font-size: 24px;
   font-weight: 600;
-
 }
 
 .digits__table-text{
@@ -207,7 +205,6 @@ margin: 100px 0;
   font-size: 36px;
   font-weight: normal;
   top: auto;
-  
 }
 
 .feynman__img{
@@ -281,7 +278,6 @@ margin: 100px 0;
 .footer{
   background-color: #1f1f1f;
   padding: 60px 0 40px;
- 
 }
 
 .footer__column{
@@ -296,7 +292,6 @@ margin: 100px 0;
 
 .footer__column_content_copyright{
   width: 50%;
-  
 }
 
 .logo_place_footer{
