@@ -278,13 +278,17 @@ margin: 100px 0;
   padding: 60px 0 40px;
 }
 
-.footer__column{
+.footer__columns{
   min-height: 250px;
   width: 90%;
   margin: 0 auto;
   position: relative;
   display: flex;
   justify-content: space-between;
+}
+
+.footer__column{
+  display: flex;
 }
 
 .footer__column_content_copyright{
