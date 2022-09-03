@@ -26,7 +26,7 @@
   height: 32px;
 }
 
-.header__logo_place_header{
+.logo_place_header{
   background-image: url(../images/logo_place_header.svg);
   position: absolute;
   left: 64px;
@@ -104,7 +104,7 @@
   margin: 0;
 }
 
-.two-columns-main__text{
+.two-columns__main-text{
   display: flex;
   flex-direction: column;
   width: 80%;
@@ -227,18 +227,18 @@ margin: 100px 0;
   overflow: hidden;
 }
 
-.section-title__them_dark{
+.section-title_them_dark{
   margin: 90px auto 0;
   color: white;
 }
 
-.section-subtitle__them_dark{
+.section-subtitle_them_dark{
   margin: 20px auto 0;
   color: white;
   position: relative;
 }
 
-.table__theme_dark{
+.table_theme_dark{
   gap: 80px 0;
   padding: 80px 0 0;
   margin: 0 auto 90px;
