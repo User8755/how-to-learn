@@ -1,0 +1,5 @@
+.feynman__img{
+    position: absolute;
+    bottom: 0;
+    z-index: 1;
+  }
