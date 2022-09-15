@@ -1,7 +1,6 @@
 .cards{
     margin: 0 auto;
     width: 920px;
-    border: 1px solid rgb(21, 104, 18);
     gap: 0 100px;
     display: flex;
 }
