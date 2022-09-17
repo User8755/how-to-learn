@@ -1,4 +1,4 @@
-/* @import url(здесь будет нормализ); */
+@import url(../blocks/vendor/normalize.css);
 @import url(../blocks/page/page.css); /* Базовые настройки всей стриници */
 @import url(../blocks/logo/logo.css); /* Логотип для header и footer */
 @import url(../blocks/rotation/rotation.css); /* Вращение фигур в header и kaufman */
