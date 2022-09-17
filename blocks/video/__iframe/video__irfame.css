@@ -1,3 +1,4 @@
 .video__iframe:last-child{
   margin-left: 20px;
+  border: none;
 }
